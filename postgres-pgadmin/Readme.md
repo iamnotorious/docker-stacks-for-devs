@@ -19,6 +19,7 @@
 - **PostgreSQL**: [http://localhost:5432](http://localhost:5432)
     - **Username**: `dev_user`
     - **Password**: `dev-password`
+    - **Hostname**: `custom_pgadmin_container`
 
 - **pgAdmin**: [http://localhost:8888](http://localhost:8888)
     - **Email**: `dev-user@dummy.com`
